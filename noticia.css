@@ -1,0 +1,25 @@
+p.titulo{
+	font-style: arial, italic;
+	font-weight: bold;
+	font-size: 25px;
+	color: #006;
+}
+p.resumo {
+	 font-style: arial, italic;
+	 font-size: 20px;
+}
+
+p.autor {
+	  font-style: arial, negrito, italic ;
+	  font-size: 20px;
+	  color: #666;
+}
+ p.texto { font-style: arial;
+font-size: 15px;
+ }
+
+.titulo{
+	font-style: arial, negrito, italic;
+	font-size: 15px;
+	color: #006;
+}
